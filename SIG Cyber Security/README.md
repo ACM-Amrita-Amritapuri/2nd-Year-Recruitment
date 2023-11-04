@@ -55,5 +55,5 @@ Go to [CLassroom](https://play.picoctf.org/classrooms) and join with invite code
 
 * Get to know about x86 assembly language
 
-* ## Submission Deadline for SIG CP
+* ## Submission Deadline for SIG Cyber
 **_25/11/23_**
