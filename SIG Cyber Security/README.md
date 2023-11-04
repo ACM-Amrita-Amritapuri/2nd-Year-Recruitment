@@ -8,12 +8,12 @@
 </p>
 
 * Cybersecurity, often referred to as information security, is the practice of protecting computer systems, networks, data, and digital assets from unauthorized access, attacks, damage, or theft.
-* The followinng task sets will help you to get your basic skill set to be in our world.
-* If you face any difficulty you can ask your doubts in discord.
+* The following task sets will help you to get your basic skill set to be in our world.
+* If you face any difficulty you can ask your doubts in Discord.
 
 ## Cyber Tasks
 
-Create an acount in [PicoCTF](https://picoctf.org/).
+Create an account in [PicoCTF](https://picoctf.org/).
 
 Go to [CLassroom](https://play.picoctf.org/classrooms) and join with invite code ```C87QwQUxl```.
 
@@ -36,7 +36,7 @@ Go to [CLassroom](https://play.picoctf.org/classrooms) and join with invite code
 **Learn**
 
 * Learn and use [forensically](https://29a.ch/photo-forensics/#forensic-magnifier) beta tool
-* Learn more about binwalk, strings and exif-tool in terminal
+* Learn more about binwalk, strings and exif-tool in the terminal
 
 **Implementation**
 
@@ -48,12 +48,12 @@ Go to [CLassroom](https://play.picoctf.org/classrooms) and join with invite code
 **Learn**
 
 * Learn about stack and go through all its basic functionalities
-* Learn about basics to c programming and implement following programs:
+* Learn about the basics to c programming and implement the following programs:
 
 1. Swapping two numbers using functions
-2. Menu driven calculator using functions
+2. Menu-driven calculator using functions
 
 * Get to know about x86 assembly language
 
-* ## Submission Deadline for SIG Web
+* ## Submission Deadline for SIG CP
 **_25/11/23_**
