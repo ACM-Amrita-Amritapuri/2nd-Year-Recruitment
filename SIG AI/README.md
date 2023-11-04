@@ -20,5 +20,5 @@
         Phone No.:- 8075994774                                       Phone No.:- 8714509489
  
 
-* ## Submission Deadline for SIG Web
+* ## Submission Deadline for SIG AI
 **_25/11/2023_**
