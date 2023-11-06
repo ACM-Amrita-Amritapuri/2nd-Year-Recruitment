@@ -8,7 +8,7 @@
 </p>
 
 ## Announcement
-Please note that the deadline for AI, CP, and Cyber has been postponed to ***17/9/23***, 11:59 pm.
+Please note that the deadline for AI, CP, Glitch, Web and Cyber ***25/11/23***, 11:59 pm.
 
 ## Some reminders...
 

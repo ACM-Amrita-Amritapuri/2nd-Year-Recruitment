@@ -7,7 +7,7 @@
   <h1 align="center">SIG Glitch</h1>
 </p>
 
-### Refer to the given PDF for task
+### Refer to the given PDF for the task
 
-* ## Submission Deadline for SIG Web
+* ## Submission Deadline for SIG Glitch
 **_25/11/2023_**
