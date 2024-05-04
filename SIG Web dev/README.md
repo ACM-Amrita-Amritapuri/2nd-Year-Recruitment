@@ -1,15 +1,10 @@
 <p align="center">
-<!-- 
-<a href="https://aseam.acm.org/">
-    <img src="" alt="Logo" width=30%>
-  </a>
--->
+  <h1 align="center">SIG Web</h1>
+</p>
 
-## ACM Web Team Entrance Challenge: S4 Calling!
+🚀 **Calling all S4 coders!** 🚀 The ACM Web Team is excited to announce our entrance challenge, designed to test your full-stack web development skills and unleash your creativity. 
 
-**Calling all S4 coders!**   The ACM Web Team is excited to announce our entrance challenge, designed to test your full-stack web development skills and unleash your creativity. 
-
-**Choose Your Adventure:**
+## **Choose Your Adventure:**
 
 We've got two exciting theme options to inspire your website:
 
@@ -22,6 +17,10 @@ We've got two exciting theme options to inspire your website:
     * Option to specify a future date for "opening" the capsule.
     * Countdown timer to build anticipation! (Optional)
 
+<p align="center">
+  <h3 align="center">OR</h3>
+</p>
+
 **2. Steampunk Sojourn:**
 
 * **Theme:** Craft a website with a steampunk aesthetic, featuring a captivating 3D parallax cityscape that comes alive as users scroll. 
@@ -30,7 +29,7 @@ We've got two exciting theme options to inspire your website:
     * Design a steampunk-inspired user interface with gears, rivets, and other thematic elements.
     * Consider incorporating interactive elements that complement the theme (e.g., animated steam vents, moving cogs).
 
-**The Challenge:**
+## **The Challenge:**
 
 No matter which theme you choose, your website must:
 
@@ -38,23 +37,25 @@ No matter which theme you choose, your website must:
 * Integrate with an external API of your choice. This could be a cloud storage service for user uploads (like Imgur or Cloudinary) or a date/time API.
 * Include a functional backend server to handle user authentication, data storage, and API communication. Choose your weapon - Node.js, Python (Django/Flask), PHP (Laravel), or any other backend framework you prefer.
 
-**What We're Looking For:**
+## **What We're Looking For:**
 
 * **Full-Stack Mastery:**  Demonstrate your grasp of front-end development, API integration, and backend development. 
 * **Creative Execution:** Impress us with a website that embodies your chosen theme, whether it's a user-friendly time capsule app or an immersive steampunk world.
 * **Technical Proficiency:** Showcase your ability to overcome challenges and deliver a well-functioning website. 
 
-**Timeline:**
+## **Timeline:**
 
 * Submission Deadline: TBD
 
-**Show Us What You've Got!**
+## **Show Us What You've Got!**
 
 This is your chance to showcase your full-stack web development skills and join the ranks of the ACM Web Team. We're eager to see the innovative and dynamic websites you create!
 
-**Additional Notes:**
+## **Additional Notes:**
 
 * Document your code clearly and provide a well-written README file explaining your approach for both the front-end and back-end components.
 * Be prepared to present your website and explain your development choices during a short interview.
 
-**Ready to take the challenge? Let's code!**
+<p align="center">
+  <h2 align="center">Ready to take the challenge? Let's code! 🎉</h2>
+</p>
