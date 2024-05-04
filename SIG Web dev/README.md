@@ -4,77 +4,57 @@
     <img src="" alt="Logo" width=30%>
   </a>
 -->
-  <h1 align="center">SIG Web</h1>
-</p>
 
-Hitchhike your way into the realm of the interconnected web.  💻
+## ACM Web Team Entrance Challenge: S4 Calling!
 
-## pre-requisites
-- git and GitHub basics 
+**Calling all S4 coders!**   The ACM Web Team is excited to announce our entrance challenge, designed to test your full-stack web development skills and unleash your creativity. 
 
-    learn git commits and branching through this [cool game](https://learngitbranching.js.org/) 🎮
+**Choose Your Adventure:**
 
--  follow the ACM Github 🌟
+We've got two exciting theme options to inspire your website:
 
-##### `❗submission of all tasks is not mandatory but will give you leverage during selection`
+**1. Time Capsule Traveler:**
 
+* **Theme:** Build a website where users can create personalized time capsules.
+* **Features:**
+    * User accounts for secure storage.
+    * Ability to add text, photos, videos, and voice recordings.
+    * Option to specify a future date for "opening" the capsule.
+    * Countdown timer to build anticipation! (Optional)
 
-## 1️⃣ introduction.js
+**2. Steampunk Sojourn:**
 
-`we've lined up 8 tasks to get your hands dirty with upcoming and popular technologies in this domain.`
+* **Theme:** Craft a website with a steampunk aesthetic, featuring a captivating 3D parallax cityscape that comes alive as users scroll. 
+* **Features:**
+    * Implement a 3D parallax effect using a JavaScript library like Three.js or Babylon.js. (For an extra challenge, build it from scratch!)
+    * Design a steampunk-inspired user interface with gears, rivets, and other thematic elements.
+    * Consider incorporating interactive elements that complement the theme (e.g., animated steam vents, moving cogs).
 
-before you get started, here are some fun sites to learn CSS/js 💡
-      
-- leap into flexbox  🐸: guide froggies to their lily pads and master CSS flexbox   [here!](https://flexboxfroggy.com/)
+**The Challenge:**
 
-- unleash your mind 🚀: dive into the captivating world of [untrusted](https://alexnisnevich.github.io/untrusted/) and rewrite the rules while mastering coding puzzles on js! 
+No matter which theme you choose, your website must:
 
-- unveil Ethereum's secrets ⛓️: conquer smart contract vulnerabilities and navigate blockchain challenges with [ethernaut!](https://ethernaut.openzeppelin.com/)
+* Be built using a JavaScript framework you're comfortable with (React, Vue.js, Angular, etc.).
+* Integrate with an external API of your choice. This could be a cloud storage service for user uploads (like Imgur or Cloudinary) or a date/time API.
+* Include a functional backend server to handle user authentication, data storage, and API communication. Choose your weapon - Node.js, Python (Django/Flask), PHP (Laravel), or any other backend framework you prefer.
 
+**What We're Looking For:**
 
+* **Full-Stack Mastery:**  Demonstrate your grasp of front-end development, API integration, and backend development. 
+* **Creative Execution:** Impress us with a website that embodies your chosen theme, whether it's a user-friendly time capsule app or an immersive steampunk world.
+* **Technical Proficiency:** Showcase your ability to overcome challenges and deliver a well-functioning website. 
 
-## 2️⃣ < tasks >
+**Timeline:**
 
+* Submission Deadline: TBD
 
----
+**Show Us What You've Got!**
 
-### ascendant 🀅
-1. craft a static webpage using HTML and CSS which serves as a personal portfolio of your works, skillset and interests.
- 
+This is your chance to showcase your full-stack web development skills and join the ranks of the ACM Web Team. We're eager to see the innovative and dynamic websites you create!
 
+**Additional Notes:**
 
+* Document your code clearly and provide a well-written README file explaining your approach for both the front-end and back-end components.
+* Be prepared to present your website and explain your development choices during a short interview.
 
-2. let wanderlust flow through your fingers as you create a webpage showcasing your dream destinations using `HTML and CSS.` 
-
-3. set off on an interstellar journey through an API-powered hub dedicated to space exploration. connect with the cosmos using APIs like [NASA's Astronomy Picture of the Day](https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua).  &nbsp; craft an interface that  showcases  images,  explanations, and  cosmic facts.
-
-4. summon your favourite series or movie lines with an HTML page that displays random fun quotes. utilize APIs like the [brooklyn nine-nine quotes api](https://rapidapi.com/JacksonBright/api/brooklyn-nine-nine-quotes) for inspiration. 
-
-
-### immortal 🀄
-
-5. craft a web app that's all about authors. use any framework to make a basic search, it should connect to a  **database** and retrieve book names of the author to be searched.  `def hint() : start with firebase for ease of use`
-
-6. create a web page that awakens the power of augmented reality (AR). harness the forces of _a-frame's <a-marker>_ component or three.js's ar.js integration to conjure a virtual world that interacts with a specific ar marker. be creative in creating this web app.
-
-7. design a photo gallery that allows us users to search for photos using keywords with `reactjs`. bonus: the users can also adjust the categorization using provided selections like mountains, beaches etc. Remember, you are the curator of your journey. 
-[watch this video for help](https://www.youtube.com/watch?v=yUau8xImmK0)
-
- `use carousel and other libraries from npm for designing`
-
-8. deploy your expertise in data visualization! develop a [streamlit](https://towardsdatascience.com/data-apps-with-pythons-streamlit-b14aaca7d083) application that showcases the [titanic survival dataset](https://www.kaggle.com/competitions/titanic) in a captivating table. 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tasks>
-
-
-
-
-_Have a great coding sesh ahead ✨_
-
-
-## submissionFormat.tsx
-- task naming convention: for each completed task, use the following format: 📝  `acmweb-ascendant--task1` for the first task in ascendant.
-- commit and push: after completing a task, commit and push the file to your github repository. ensure the repository is public. 🚀
-- create a pdf document with each project's github link and demo link `if deployed` or `screenshots`
-
-## Submission Deadline for SIG Web
-**_25/11/23_**
+**Ready to take the challenge? Let's code!**
