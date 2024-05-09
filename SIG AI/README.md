@@ -11,13 +11,13 @@
 
 ### Mentors
 
-    1.  Dhruv R Krishnan                                         2.  A P Krishna         
-        SIGAI Lead                                                   SIGAI Co-Lead
-        Phone No.:- 9880611945                                       Phone No.:- 7034208275
+    1.  Dhruv R Krishnan                                         2.  Lokesh Yarramallu         
+        SIGAI Lead                                                   SIGAI Mentor
+        Phone No.:- 9880611945                                       Phone No.:- 7095419591
  
-    3.  Megha Mohan                                              4.  Hari Sankar
+    3.  Adithya S Nair                                           4.  Hari Sankar
         SIG AI Mentor                                                SIG AI Mentor 
-        Phone No.:- 8075994774                                       Phone No.:- 8714509489
+        Phone No.:- 8136859455                                       Phone No.:- 8714509489
  
 
 * ## Submission Deadline for SIG AI
