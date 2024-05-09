@@ -106,10 +106,8 @@ Can you figure out this cipher??!!
 
 ![](ArcoLinux_2024-02-21_14-01-21.png)
 
+### Mentors
 
-
-
-
-
-
-Author: Mudu
+    1.  Aadithyan Raju                                           2.  Akhil Menon        
+        SIG Cyber Lead                                               SIG Cyber Mentor
+        Phone No.:- 9562341272                                       Phone No.:- 9400646772
