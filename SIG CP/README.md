@@ -17,5 +17,5 @@ All the best and see you there for the contest.
 Cheers
 Happy Coding!!!
 
-* ## Submission Deadline for SIG CP
-**_25/11/2023_**
+## Contest Date for SIG CP
+**_TBD_**
