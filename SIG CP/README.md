@@ -18,4 +18,4 @@ Cheers
 Happy Coding!!!
 
 ## Contest Date for SIG CP
-**_TBD_**
+**_20/05/2024 (Monday)_**
