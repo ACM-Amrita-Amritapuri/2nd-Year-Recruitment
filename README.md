@@ -4,11 +4,15 @@
     <img src="https://acm-amritapuri.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwebsite_logo.a78de4d0.png&w=256&q=75" alt="Logo" width=30%>
   </a>
 
-  <h3 align="center">ACM Student Chapter - Amritapuri<br>Task List - 2023</h3>
+  <h3 align="center">ACM Student Chapter - Amritapuri<br>Recruitment Task List - 2024</h3>
 </p>
 
 ## Announcement
-Please note that the deadline for AI, CP, Glitch, Web and Cyber ***25/11/23***, 11:59 pm.
+Please note that the deadline for your respective SIGs
+- AI - ***25/11/23***, 11:59 pm
+- CP - ***25/11/23***, 11:59 pm
+- Web - ***25/11/23***, 11:59 pm
+- Cyber - ***25/11/23***, 11:59 pm
 
 ## Some reminders...
 
