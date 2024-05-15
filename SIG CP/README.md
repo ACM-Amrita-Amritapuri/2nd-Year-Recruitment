@@ -18,4 +18,4 @@ Cheers
 Happy Coding!!!
 
 ## Contest Date for SIG CP
-**_20/05/2024 (Monday), 5:15 pm_**
+**_21/05/2024 (Monday), 5:15 pm_**
