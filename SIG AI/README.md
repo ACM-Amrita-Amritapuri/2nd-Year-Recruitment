@@ -20,5 +20,5 @@
         Phone No.:- 8136859455                                       Phone No.:- 8714509489
  
 
-* ## Submission Deadline for SIG AI
+## Submission Deadline for SIG AI
 **_16/06/2024_**
