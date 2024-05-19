@@ -10,7 +10,7 @@
 ## Announcement
 Please note that the deadline for your respective SIGs
 - AI - ***16/06/24***, 11:59 pm
-- CP - ***21/05/24***, 5:15 pm (Contest Date)
+- CP - ***27/05/24***, 5:15 pm (Contest Date)
 - Web - ***16/06/24***, 11:59 pm
 - Cyber - ***16/06/24***, 11:59 pm
 
