@@ -14,6 +14,8 @@ Please note that the deadline for your respective SIGs
 - Web - ***16/06/24***, 11:59 pm
 - Cyber - ***16/06/24***, 11:59 pm
 
+Submission Link:- https://aseam.acm.org/join/submit/
+
 ## Some reminders...
 
 - *Google is going to be a very dear friend, not only for these tasks but throughout your career, so it's best to learn how to efficiently Google*
