@@ -1,74 +1,58 @@
 <p align="center">
+<!-- 
+<a href="https://aseam.acm.org/">
+    <img src="" alt="Logo" width=30%>
+  </a>
+-->
   <h1 align="center">SIG Web</h1>
 </p>
 
-🚀 **Calling all S4 coders!** 🚀 The ACM Web Team is excited to announce our entrance challenge, designed to test your full-stack web development skills and unleash your creativity. 
+# Tasks
 
-## **Choose Your Adventure:**
+## Build a Personal Portfolio Website
 
-We've got two exciting theme options to inspire your website:
+**Objective:**
+Create a responsive personal portfolio website using HTML, CSS, and JavaScript.
 
-**1. Time Capsule Traveler:**
+**Requirements:**
 
-* **Theme:** Build a website where users can create personalized time capsules.
-* **Features:**
-    * User accounts for secure storage.
-    * Ability to add text, photos, videos, and voice recordings.
-    * Option to specify a future date for "opening" the capsule.
-    * Countdown timer to build anticipation! (Optional)
+- Include sections such as **About Me**, **Projects**, **Skills**, and **Contact**.
+- Implement smooth scrolling and a dynamic project gallery.
 
-<p align="center">
-  <h3 align="center">OR</h3>
-</p>
+## Develop a To-Do List Application
 
-**2. Steampunk Sojourn:**
+**Objective:**
+Create a to-do list application using React.js.
 
-* **Theme:** Craft a website with a steampunk aesthetic, featuring a captivating 3D parallax cityscape that comes alive as users scroll. 
-* **Features:**
-    * Implement a 3D parallax effect using a JavaScript library like Three.js or Babylon.js. (For an extra challenge, build it from scratch!)
-    * Design a steampunk-inspired user interface with gears, rivets, and other thematic elements.
-    * Consider incorporating interactive elements that complement the theme (e.g., animated steam vents, moving cogs).
+**Requirements:**
 
-## **The Challenge:**
+- Allow users to **add**, **edit**, **delete**, and **mark tasks as completed**.
+- Implement **local storage** to save tasks between sessions.
 
-No matter which theme you choose, your website must:
+## Build a Simple Smart Contract
 
-* Be built using a JavaScript framework you're comfortable with (React, Vue.js, Angular, etc.).
-* Integrate with an external API of your choice. This could be a cloud storage service for user uploads (like Imgur or Cloudinary) or a date/time API.
-* Include a functional backend server to handle user authentication, data storage, and API communication. Choose your weapon - Node.js, Python (Django/Flask), PHP (Laravel), or any other backend framework you prefer.
+**Objective:**
+Write and deploy a simple smart contract on the Ethereum blockchain using Solidity.
 
-## **What We're Looking For:**
+**Requirements:**
 
-* **Full-Stack Mastery:**  Demonstrate your grasp of front-end development, API integration, and backend development. 
-* **Creative Execution:** Impress us with a website that embodies your chosen theme, whether it's a user-friendly time capsule app or an immersive steampunk world.
-* **Technical Proficiency:** Showcase your ability to overcome challenges and deliver a well-functioning website. 
+- The smart contract should manage a basic token with functionalities like **minting**, **transferring**, and **checking balances**.
+- Test the smart contract using **Remix IDE** and deploy it to the **Ropsten test network**.
 
-## **Timeline:**
+## Deploy a Web Application on AWS
 
-* Submission Deadline: TBD
+**Objective:**
+Deploy a simple web application (e.g., a portfolio site or a blog) on AWS.
 
-## **Show Us What You've Got!**
+**Requirements:**
 
-This is your chance to showcase your full-stack web development skills and join the ranks of the ACM Web Team. We're eager to see the innovative and dynamic websites you create!
+- Use services like **EC2** for the server, **S3** for storage, and **Route 53** for DNS management.
+- Ensure the application is secure with proper **IAM roles** and **policies**.
 
-## **Additional Notes:**
+## Queries
 
-* Document your code clearly and provide a well-written README file explaining your approach for both the front-end and back-end components.
-* Be prepared to present your website and explain your development choices during a short interview.
+# QUERIES
 
-<p align="center">
-  <h2 align="center">Ready to take the challenge? Let's code! 🎉</h2>
-</p>
-
-## Mentors
-
-    1.  Adithya S Nair                                           2.  Dhruv R Krishnan         
-        SIG Web Mentor                                               SIG Web Mentor
-        Phone No.:- 8136859455                                       Phone No.:- 9880611945
- 
-    3.  Akhil Menon                                  
-        SIG Web Mentor
-        Phone No.:- 9400646772                                  
-
-## Submission Deadline for SIG AI
-**_16/06/2024_**
+Akhil Menon  
+SIG Cyber Lead  
+Phone No.:- 9400646772
