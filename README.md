@@ -13,7 +13,7 @@ The recruitment task list for the ACM Student Chapter - Amritapuri
 
 ## Submission Deadline
 
-### **30/9/2024**
+### **30/9/2024** ( Will be open from 20th )
 
 ## Submission Link:-
 
