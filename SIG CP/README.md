@@ -1,7 +1,5 @@
 # SIG Competitive Programming (SIG CP)
 
-Welcome to the SIG CP repository! This repository contains solutions and documentation for various tasks related to competitive programming, data structures, and algorithms. Below are the tasks that need to be completed.
-
 ## Tasks Overview
 
 ### Task 1: Bit Manipulation Questions (LeetCode Top Interview 150)
