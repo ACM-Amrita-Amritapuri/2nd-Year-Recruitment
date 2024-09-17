@@ -7,6 +7,8 @@
   <h1 align="center">SIG AI</h1>
 </p>
 
+# **TRY OUT THE MAXIMUM TASKS YOU CAN COMPLETE FROM THE GIVEN LIST**
+
 ### Refer to the given PDF for task
 
 ### Mentors
