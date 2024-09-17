@@ -23,6 +23,13 @@
 - *Documentation*: Ensure to document your code and explain the operations in a separate markdown file.
 - *Submission*: Add the implementation and documentation to the Task3-DoublyLinkedList folder.
 
+### Offline Contest (Round 2)
+- *Details: There will be an offline contest conducted as **Round 2* of the SIG CP, to test your knowledge and implementation skills.
+- *Location*: ACM Lab, Amrita Vishwa Vidyapeetham.
+- *Date*: The date will be conveyed later, so stay tuned!
+- *Format*: The offline contest will feature problems that evaluate your understanding of the concepts and tasks outlined above.
+
+
 ## Contribution Guidelines
 
 - Make sure the code is clean and well-documented.
