@@ -19,4 +19,4 @@
 
 ## Submission Deadline for SIG AI
 
-**_30/09/2024_**
+**_2/10/2024_**
